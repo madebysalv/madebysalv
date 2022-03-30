@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on AWS SAA certificate
 - 🌱 I’m currently learning cloud & dev-ops techology
 - 💬 Ask me about anthing, happy to help :D
-- 📫 How to reach me: You can reach me on linkedin https://www.linkedin.com/in/salvinojama/
+- 📫 You can reach me on linkedin https://www.linkedin.com/in/salvinojama/
 - 🥅 2022 Goals: AWS SAA certificate and move into a Cloud / Devops role
 
 <!--
